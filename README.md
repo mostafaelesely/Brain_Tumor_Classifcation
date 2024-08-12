@@ -1,7 +1,3 @@
-Here's a README template for your Brain Tumor MRI Classification project:
-
----
-
 # Brain Tumor MRI Classification
 
 This project focuses on classifying brain tumor MRI images into four categories: **Glioma**, **Meningioma**, **No Tumor**, and **Pituitary**. The model is built using the **EfficientNetB7** architecture, fine-tuned for the specific task. This repository contains the code to train, validate, test, and deploy the model.
